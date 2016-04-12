@@ -1,154 +1,82 @@
 {
-	"size": 256967573316,
 	"details": [{
-		"filepath": "main/c/ca-certificates-java/ca-certificates-java_20160322.dsc",
+		"filepath": "pool/main/c/ca-certificates-java/ca-certificates-java_20160322.dsc",
 		"filesize": "976"
 	}, {
-		"filepath": "main/c/ca-certificates-java/ca-certificates-java_20160322.tar.xz",
+		"filepath": "pool/main/c/ca-certificates-java/ca-certificates-java_20160322.tar.xz",
 		"filesize": "15752"
 	}, {
-		"filepath": "main/c/ca-certificates-java/ca-certificates-java_20160322_all.deb",
+		"filepath": "pool/main/c/ca-certificates-java/ca-certificates-java_20160322_all.deb",
 		"filesize": "14420"
 	}, {
-		"filepath": "main/g/grub2-signed/grub-efi-amd64-signed_1.67+1.65+2.02~beta2_amd64.deb",
+		"filepath": "pool/main/g/grub2-signed/grub-efi-amd64-signed_1.67+1.65+2.02~beta2_amd64.deb",
 		"filesize": "279592"
 	}, {
-		"filepath": "main/g/grub2-signed/grub2-signed_1.67.dsc",
+		"filepath": "pool/main/g/grub2-signed/grub2-signed_1.67.dsc",
 		"filesize": "610"
 	}, {
-		"filepath": "main/g/grub2-signed/grub2-signed_1.67.tar.xz",
+		"filepath": "pool/main/g/grub2-signed/grub2-signed_1.67.tar.xz",
 		"filesize": "283160"
 	}, {
-		"filepath": "main/w/wxmedit/wxmedit_3.1-3.debian.tar.xz",
+		"filepath": "pool/main/w/wxmedit/wxmedit_3.1-3.debian.tar.xz",
 		"filesize": "2264"
 	}, {
-		"filepath": "main/w/wxmedit/wxmedit_3.1-3.dsc",
+		"filepath": "pool/main/w/wxmedit/wxmedit_3.1-3.dsc",
 		"filesize": "862"
 	}, {
-		"filepath": "main/w/wxmedit/wxmedit_3.1-3_amd64.deb",
+		"filepath": "pool/main/w/wxmedit/wxmedit_3.1-3_amd64.deb",
 		"filesize": "967368"
 	}, {
-		"filepath": "main/w/wxmedit/wxmedit_3.1-3_i386.deb",
+		"filepath": "pool/main/w/wxmedit/wxmedit_3.1-3_i386.deb",
 		"filesize": "989610"
 	}, {
-		"filepath": "main/w/wxmedit/wxmedit_3.1.orig.tar.xz",
+		"filepath": "pool/main/w/wxmedit/wxmedit_3.1.orig.tar.xz",
 		"filesize": "1340568"
 	}, {
-		"filepath": "non-free/o/oracle-java6/oracle-java6_6u45-5.debian.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java6/oracle-java6_6u45-5.debian.tar.xz",
 		"filesize": "10368"
 	}, {
-		"filepath": "non-free/o/oracle-java6/oracle-java6_6u45-5.dsc",
+		"filepath": "pool/non-free/o/oracle-java6/oracle-java6_6u45-5.dsc",
 		"filesize": "932"
 	}, {
-		"filepath": "non-free/o/oracle-java6/oracle-java6_6u45-5_amd64.deb",
+		"filepath": "pool/non-free/o/oracle-java6/oracle-java6_6u45-5_amd64.deb",
 		"filesize": "63447734"
 	}, {
-		"filepath": "non-free/o/oracle-java6/oracle-java6_6u45-5_i386.deb",
+		"filepath": "pool/non-free/o/oracle-java6/oracle-java6_6u45-5_i386.deb",
 		"filesize": "67338878"
 	}, {
-		"filepath": "non-free/o/oracle-java6/oracle-java6_6u45.orig.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java6/oracle-java6_6u45.orig.tar.xz",
 		"filesize": "141037152"
 	}, {
-		"filepath": "non-free/o/oracle-java7/oracle-java7_7u79-5.debian.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java7/oracle-java7_7u79-5.debian.tar.xz",
 		"filesize": "10476"
 	}, {
-		"filepath": "non-free/o/oracle-java7/oracle-java7_7u79-5.dsc",
+		"filepath": "pool/non-free/o/oracle-java7/oracle-java7_7u79-5.dsc",
 		"filesize": "932"
 	}, {
-		"filepath": "non-free/o/oracle-java7/oracle-java7_7u79-5_amd64.deb",
+		"filepath": "pool/non-free/o/oracle-java7/oracle-java7_7u79-5_amd64.deb",
 		"filesize": "127411378"
 	}, {
-		"filepath": "non-free/o/oracle-java7/oracle-java7_7u79-5_i386.deb",
+		"filepath": "pool/non-free/o/oracle-java7/oracle-java7_7u79-5_i386.deb",
 		"filesize": "127721642"
 	}, {
-		"filepath": "non-free/o/oracle-java7/oracle-java7_7u79.orig.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java7/oracle-java7_7u79.orig.tar.xz",
 		"filesize": "307046652"
 	}, {
-		"filepath": "non-free/o/oracle-java8/oracle-java8_8u77-1.debian.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java8/oracle-java8_8u77-1.debian.tar.xz",
 		"filesize": "10792"
 	}, {
-		"filepath": "non-free/o/oracle-java8/oracle-java8_8u77-1.dsc",
+		"filepath": "pool/non-free/o/oracle-java8/oracle-java8_8u77-1.dsc",
 		"filesize": "939"
 	}, {
-		"filepath": "non-free/o/oracle-java8/oracle-java8_8u77-1_amd64.deb",
+		"filepath": "pool/non-free/o/oracle-java8/oracle-java8_8u77-1_amd64.deb",
 		"filesize": "149524704"
 	}, {
-		"filepath": "non-free/o/oracle-java8/oracle-java8_8u77-1_i386.deb",
+		"filepath": "pool/non-free/o/oracle-java8/oracle-java8_8u77-1_i386.deb",
 		"filesize": "151295068"
 	}, {
-		"filepath": "non-free/o/oracle-java8/oracle-java8_8u77.orig.tar.xz",
+		"filepath": "pool/non-free/o/oracle-java8/oracle-java8_8u77.orig.tar.xz",
 		"filesize": "362893872"
-	}, {
-		"filepath": "SHA1/31363dd66a1d05fa73d072304622ec2273d0de6f",
-		"filesize": "121"
-	}, {
-		"filepath": "SHA1/4d7787cb5352f56dc3af769851dc75f1374f6094",
-		"filesize": "13749347"
-	}, {
-		"filepath": "SHA1/715fe5f1696d93e431a6cd407e032f90e9ad292a",
-		"filesize": "52303301"
-	}, {
-		"filepath": "SHA1/49df10b7cd6e4c9812e2f4ea2cfd0af4ddf4e7f4",
-		"filesize": "120"
-	}, {
-		"filepath": "SHA1/5f07eb5c8e9fc339d2ebd2c432f1eaa057138f9a",
-		"filesize": "13710057"
-	}, {
-		"filepath": "SHA1/b0816e260c5297013104f0aecc5d943f48c55ed0",
-		"filesize": "52052734"
-	}, {
-		"filepath": "SHA1/293a0750d15ce135c6bf09c202de1b9f6e57f753",
-		"filesize": "122"
-	}, {
-		"filepath": "SHA1/9f4b9c692adeb5e89f8e40223a93d62ce5bd07c0",
-		"filesize": "10676038"
-	}, {
-		"filepath": "SHA1/c29dfd19382708e59124f4dbf76b941568b88b58",
-		"filesize": "38585210"
-	}, {
-		"filepath": "2016-04-08-1748.54.gz",
-		"filesize": "7924"
-	}, {
-		"filepath": "2016-04-08-1758.48.gz",
-		"filesize": "7924"
-	}, {
-		"filepath": "2016-04-08-1801.14.gz",
-		"filesize": "7924"
-	}, {
-		"filepath": "by-hash/SHA1/f6c1f7816fc95cb1f8cd4bb9d00b882bfd62ca9f",
-		"filesize": "1760"
-	}, {
-		"filepath": "by-hash/SHA256/82b2c780d6dd79768433897cfca2510e9dcf32e3227aecdeee348dec8dca9747",
-		"filesize": "1760"
-	}, {
-		"filepath": "2016-04-08-1748.46.gz",
-		"filesize": "7735"
-	}, {
-		"filepath": "2016-04-08-1758.40.gz",
-		"filesize": "7735"
-	}, {
-		"filepath": "2016-04-08-1801.06.gz",
-		"filesize": "7735"
-	}, {
-		"filepath": "by-hash/SHA1/138d832e80d7f078b8b113c74026ca21c3a8e4ef",
-		"filesize": "1760"
-	}, {
-		"filepath": "by-hash/SHA256/e8bd1b2bafcb024ed9daf4cd46614298724e3507fc3fb99aa72a8c0914713963",
-		"filesize": "1760"
-	}, {
-		"filepath": "2016-04-08-1749.07.gz",
-		"filesize": "5581"
-	}, {
-		"filepath": "2016-04-08-1758.54.gz",
-		"filesize": "5581"
-	}, {
-		"filepath": "2016-04-08-1801.20.gz",
-		"filesize": "5581"
-	}, {
-		"filepath": "by-hash/SHA1/961c51eef7bab7f066900955ab5a5ff3ccdf60f7",
-		"filesize": "1204"
-	}, {
-		"filepath": "by-hash/SHA256/ce24b59dca05a2b73abcae664ff2a09a37b6875609834381ebe2bb1870b9830c",
-		"filesize": "1204"
-	}]
+	}],
+	"size": 256967573316
 }

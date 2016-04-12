@@ -49,23 +49,25 @@ if __name__ == '__main__':
             pass
         else:
             filepath = datalines[num].strip()
-            filename = os.path.basename(filepath)
-            filesize = 0
-            step = 0
-            maxnum = totallen - num
-            while step < maxnum:
-                if '100%' in datalines[num + step] and 'xfer' in datalines[num + step]:
-                    # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
-                    # to-check=1079/189807)
-                    filesize = datalines[num + step].strip().split(' ')[0]
-                    filelist.append({
-                        "filepath": filepath,
-                        "filesize": filesize
-                    })
-                    num = num + step
-                    break
-                else:
-                    step += 1
+            # only show files in pools
+            if 'non-free/' in filepath or 'main/' in filepath or 'contrib/' in filepath:
+                filepath = "pool/" + filepath
+                filesize = 0
+                step = 0
+                maxnum = totallen - num
+                while step < maxnum:
+                    if '100%' in datalines[num + step] and 'xfer' in datalines[num + step]:
+                        # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
+                        # to-check=1079/189807)
+                        filesize = datalines[num + step].strip().split(' ')[0]
+                        filelist.append({
+                            "filepath": filepath,
+                            "filesize": filesize
+                        })
+                        num = num + step
+                        break
+                    else:
+                        step += 1
 
         num += 1
 
