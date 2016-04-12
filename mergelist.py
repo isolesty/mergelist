@@ -59,7 +59,6 @@ if __name__ == '__main__':
                     # to-check=1079/189807)
                     filesize = datalines[num + step].strip().split(' ')[0]
                     filelist.append({
-                        "filename": filename,
                         "filepath": filepath,
                         "filesize": filesize
                     })
