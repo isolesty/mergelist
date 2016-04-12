@@ -1,0 +1,1474 @@
+Sync deepin mirror include 2015 and 2014...
+sending incremental file list
+.__GUARD__INDEX__
+
+        5126 100%    0.00kB/s    0:00:00  
+        5126 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+
+sent 5205 bytes  received 75 bytes  10560.00 bytes/sec
+total size is 5126  speedup is 0.97
+sending incremental file list
+./
+__GUARD__1460109195
+
+          10 100%    0.00kB/s    0:00:00  
+          10 100%    0.00kB/s    0:00:00 (xfer#1, to-check=1005/1007)
+main/a/altermime/
+main/a/altermime/__GUARD__1460109195
+
+          10 100%    0.08kB/s    0:00:00  
+          10 100%    0.08kB/s    0:00:00 (xfer#2, to-check=1007/4967)
+main/a/am-utils/
+main/a/amavisd-milter/
+main/a/amavisd-milter/__GUARD__1460109195
+
+          10 100%    0.08kB/s    0:00:00  
+          10 100%    0.08kB/s    0:00:00 (xfer#3, to-check=1008/5030)
+main/a/autodock-vina/
+main/a/autodock-vina/__GUARD__1460109195
+
+          10 100%    0.04kB/s    0:00:00  
+          10 100%    0.04kB/s    0:00:00 (xfer#4, to-check=1013/8121)
+main/a/autofs/
+main/a/autokey/
+main/a/autokey/__GUARD__1460109195
+
+          10 100%    0.04kB/s    0:00:00  
+          10 100%    0.04kB/s    0:00:00 (xfer#5, to-check=1010/8169)
+main/b/buffy/
+main/b/buffy/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#6, to-check=1442/12860)
+main/b/bugz/
+main/b/buildapp/
+main/b/buildapp/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#7, to-check=1400/12860)
+main/c/ca-certificates-java/
+main/c/ca-certificates-java/ca-certificates-java_20160322.dsc
+
+         976 100%    1.98kB/s    0:00:00  
+         976 100%    1.98kB/s    0:00:00 (xfer#8, to-check=1004/13957)
+main/c/ca-certificates-java/ca-certificates-java_20160322.tar.xz
+
+       15752 100%   31.98kB/s    0:00:00  
+       15752 100%   31.98kB/s    0:00:00 (xfer#9, to-check=1003/13957)
+main/c/ca-certificates-java/ca-certificates-java_20160322_all.deb
+
+       14420 100%   29.28kB/s    0:00:00  
+       14420 100%   29.28kB/s    0:00:00 (xfer#10, to-check=1002/13957)
+main/c/cl-pipes/
+main/c/cl-pipes/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#11, to-check=1008/16882)
+main/c/cl-postmodern/
+main/c/cl-ptester/
+main/c/cl-ptester/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#12, to-check=1004/16913)
+main/c/csmash-demosong/
+main/c/csmash-demosong/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#13, to-check=1764/21033)
+main/c/csoundqt/
+main/c/cssmin/
+main/c/cssmin/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#14, to-check=1686/21033)
+main/d/dh-make-php/
+main/d/dh-make/
+main/d/dh-make/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#15, to-check=1006/24894)
+main/d/dh-php5/
+main/d/dh-php5/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#16, to-check=1006/24904)
+main/d/dx/
+main/d/dx/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#17, to-check=1013/27789)
+main/d/dymo-cups-drivers/
+main/d/dynare/
+main/d/dynare/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#18, to-check=1007/27848)
+main/f/fbterm-ucimf/
+main/f/fbterm-ucimf/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#19, to-check=1011/32632)
+main/f/fcgiwrap/
+main/f/fcitx-anthy/
+main/f/fcitx-anthy/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#20, to-check=1007/32662)
+main/f/fonts-sil-charis-compact/
+main/f/fonts-sil-charis-compact/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#21, to-check=1004/35908)
+main/f/fonts-sil-ezra/
+main/f/fonts-sil-gentiumplus/
+main/f/fonts-sil-gentiumplus/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#22, to-check=1007/35952)
+main/g/geany/
+main/g/geany/__GUARD__1460109195
+
+          10 100%    0.00kB/s    0:00:00  
+          10 100%    0.00kB/s    0:00:00 (xfer#23, to-check=1008/43505)
+main/g/gearman-server/
+main/g/gecode/
+main/g/gecode/__GUARD__1460109195
+
+          10 100%    9.77kB/s    0:00:00  
+          10 100%    9.77kB/s    0:00:00 (xfer#24, to-check=1021/43562)
+main/g/gnome-themes-standard/
+main/g/gnome-themes-standard/__GUARD__1460109195
+
+          10 100%    0.06kB/s    0:00:00  
+          10 100%    0.06kB/s    0:00:00 (xfer#25, to-check=1010/47261)
+main/g/gnome-user-docs/
+main/g/gnome-weather/
+main/g/gnome-weather/__GUARD__1460109195
+
+          10 100%    0.06kB/s    0:00:00  
+          10 100%    0.06kB/s    0:00:00 (xfer#26, to-check=1004/47315)
+main/g/gopher/
+main/g/gopher/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#27, to-check=1004/49970)
+main/g/gosa-plugin-netgroups/
+main/g/gosa-plugin-netgroups/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#28, to-check=1008/50006)
+main/g/gosa/
+main/g/grub2-signed/
+main/g/grub2-signed/grub-efi-amd64-signed_1.67+1.65+2.02~beta2_amd64.deb
+
+       32768  11%   88.89kB/s    0:00:02  
+      279592 100%  578.47kB/s    0:00:00 (xfer#29, to-check=1006/51262)
+main/g/grub2-signed/grub2-signed_1.67.dsc
+
+         610 100%    1.26kB/s    0:00:00  
+         610 100%    1.26kB/s    0:00:00 (xfer#30, to-check=1005/51262)
+main/g/grub2-signed/grub2-signed_1.67.tar.xz
+
+       32768  11%   64.26kB/s    0:00:03  
+      283160 100%  437.54kB/s    0:00:00 (xfer#31, to-check=1004/51262)
+main/h/haskell-bytestring-mmap/
+main/h/haskell-bytestring-mmap/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#32, to-check=1008/54956)
+main/h/haskell-cabal/
+main/h/haskell-cairo/
+main/h/haskell-cairo/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#33, to-check=1008/55020)
+main/h/haskell-split/
+main/h/haskell-split/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#34, to-check=1015/59091)
+main/h/haskell-stateref/
+main/h/haskell-static-hash/
+main/h/haskell-static-hash/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#35, to-check=1009/59139)
+main/i/idm-console-framework/
+main/i/idm-console-framework/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#36, to-check=1008/63415)
+main/i/iec16022/
+main/i/ifenslave/
+main/i/ifenslave/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#37, to-check=1012/63492)
+main/j/jhighlight/
+main/j/jhighlight/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#38, to-check=1445/67306)
+main/j/jigl/
+main/j/jimtcl/
+main/j/jimtcl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#39, to-check=1398/67306)
+main/k/kpat/
+main/k/kpat/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#40, to-check=1482/71589)
+main/k/kphotoalbum/
+main/k/kprinter4/
+main/k/kprinter4/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#41, to-check=1424/71589)
+main/l/ltpanel/
+main/l/ltpanel/__GUARD__1460109195
+
+          10 100%    0.00kB/s    0:00:00  
+          10 100%    0.00kB/s    0:00:00 (xfer#42, to-check=1009/76600)
+main/l/ltsp/
+main/l/ltt-control/
+main/l/ltt-control/__GUARD__1460109195
+
+          10 100%    9.77kB/s    0:00:00  
+          10 100%    9.77kB/s    0:00:00 (xfer#43, to-check=1020/76657)
+main/libb/libbluedevil/
+main/libb/libbluedevil/__GUARD__1460109195
+
+          10 100%    0.06kB/s    0:00:00  
+          10 100%    0.06kB/s    0:00:00 (xfer#44, to-check=1015/79944)
+main/libb/libboolean-perl/
+main/libb/libbot-training-perl/
+main/libb/libbot-training-perl/__GUARD__1460109195
+
+          10 100%    0.06kB/s    0:00:00  
+          10 100%    0.06kB/s    0:00:00 (xfer#45, to-check=1007/79994)
+main/libc/libcrypt-dh-gmp-perl/
+main/libc/libcrypt-dh-gmp-perl/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#46, to-check=1006/83011)
+main/libc/libcrypt-eksblowfish-perl/
+main/libc/libcrypt-generatepassword-perl/
+main/libc/libcrypt-generatepassword-perl/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#47, to-check=1006/83043)
+main/libe/libevocosm/
+main/libe/libevocosm/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#48, to-check=1022/86172)
+main/libe/libex-monkeypatched-perl/
+main/libe/libexception-class-dbi-perl/
+main/libe/libexception-class-dbi-perl/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#49, to-check=1020/86233)
+main/libh/libhtml-wikiconverter-mediawiki-perl/
+main/libh/libhtml-wikiconverter-mediawiki-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#50, to-check=1005/89749)
+main/libh/libhtml-wikiconverter-phpwiki-perl/
+main/libh/libhtml-wikiconverter-tikiwiki-perl/
+main/libh/libhtml-wikiconverter-tikiwiki-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#51, to-check=1006/89779)
+main/libl/liblog-report-lexicon-perl/
+main/libl/liblog-report-lexicon-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#52, to-check=1007/93171)
+main/libl/liblog-tracemessages-perl/
+main/libl/liblogging/
+main/libl/liblogging/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#53, to-check=1007/93210)
+main/libn/libnet-interface-perl/
+main/libn/libnet-interface-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#54, to-check=1010/96336)
+main/libn/libnet-iptrie-perl/
+main/libn/libnet-irr-perl/
+main/libn/libnet-irr-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#55, to-check=1008/96364)
+main/libp/libpoe-component-server-jsonrpc-perl/
+main/libp/libpoe-component-server-jsonrpc-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#56, to-check=1011/99551)
+main/libp/libpoe-component-syndicator-perl/
+main/libp/libpoe-filter-stomp-perl/
+main/libp/libpoe-filter-stomp-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#57, to-check=1009/99583)
+main/libt/libtango/
+main/libt/libtango/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#58, to-check=1008/103823)
+main/libt/libtap-harness-archive-perl/
+main/libt/libtar/
+main/libt/libtar/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#59, to-check=1007/103853)
+main/libv/libverilog-perl/
+main/libv/libverilog-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#60, to-check=1023/106413)
+main/libv/libverto/
+main/libv/libvideo-capture-v4l-perl/
+main/libv/libvideo-capture-v4l-perl/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#61, to-check=1018/106462)
+main/m/mate-user-guide/
+main/m/mate-user-guide/__GUARD__1460109195
+
+          10 100%    0.00kB/s    0:00:00  
+          10 100%    0.00kB/s    0:00:00 (xfer#62, to-check=1006/111124)
+main/m/mathgl/
+main/m/mathjax/
+main/m/mathjax/__GUARD__1460109195
+
+          10 100%    9.77kB/s    0:00:00  
+          10 100%    9.77kB/s    0:00:00 (xfer#63, to-check=1008/111237)
+main/m/mopidy-dleyna/
+main/m/mopidy-podcast/
+main/m/mopidy-podcast/__GUARD__1460109195
+
+          10 100%    0.08kB/s    0:00:00  
+          10 100%    0.08kB/s    0:00:00 (xfer#64, to-check=1006/114534)
+main/m/mopidy/
+main/m/mopidy/__GUARD__1460109195
+
+          10 100%    0.08kB/s    0:00:00  
+          10 100%    0.08kB/s    0:00:00 (xfer#65, to-check=1005/114558)
+main/n/networking-arista/
+main/n/networking-arista/__GUARD__1460109195
+
+          10 100%    0.04kB/s    0:00:00  
+          10 100%    0.04kB/s    0:00:00 (xfer#66, to-check=1007/118607)
+main/n/networkmanager-qt/
+main/n/neutron/
+main/n/neutron/__GUARD__1460109195
+
+          10 100%    0.04kB/s    0:00:00  
+          10 100%    0.04kB/s    0:00:00 (xfer#67, to-check=1018/118673)
+main/n/nuxwdog/
+main/n/nuxwdog/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#68, to-check=1017/121372)
+main/n/nvidia-texture-tools/
+main/n/nvtv/
+main/n/nvtv/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#69, to-check=1009/121417)
+main/o/osmo/
+main/o/osmo/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#70, to-check=3251/128137)
+main/o/osptoolkit/
+main/o/oss-preserve/
+main/o/oss-preserve/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#71, to-check=3209/128137)
+main/p/php-amqp/
+main/p/php-amqp/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#72, to-check=1007/132066)
+main/p/php-apcu-bc/
+main/p/php-arc/
+main/p/php-arc/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#73, to-check=1004/132102)
+main/p/pkg-mozilla-archive-keyring/
+main/p/pkg-mozilla-archive-keyring/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#74, to-check=1066/134884)
+main/p/pkgdiff/
+main/p/pkpgcounter/
+main/p/pkpgcounter/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#75, to-check=1040/134884)
+main/p/puppet-module-swift/
+main/p/puppet-module-swift/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#76, to-check=1007/138226)
+main/p/purelibc/
+main/p/purity-off/
+main/p/purity-off/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#77, to-check=1013/138294)
+main/p/python-django-piston/
+main/p/python-django-piston/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#78, to-check=1004/141419)
+main/p/python-django-shorturls/
+main/p/python-django-threadedcomments/
+main/p/python-django-threadedcomments/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#79, to-check=1005/141450)
+main/p/python-rcssmin/
+main/p/python-rcssmin/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#80, to-check=1008/144295)
+main/p/python-redis/
+main/p/python-releases/
+main/p/python-releases/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#81, to-check=1008/144344)
+main/q/qviaggiatreno/
+main/q/qviaggiatreno/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#82, to-check=1783/149206)
+main/q/qwt5/
+main/q/qxmledit/
+main/q/qxmledit/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#83, to-check=1716/149206)
+main/r/rexical/
+main/r/rexical/__GUARD__1460109195
+
+          10 100%    0.00kB/s    0:00:00  
+          10 100%    0.00kB/s    0:00:00 (xfer#84, to-check=1016/153026)
+main/r/rfdump/
+main/r/rgbpaint/
+main/r/rgbpaint/__GUARD__1460109195
+
+          10 100%    9.77kB/s    0:00:00  
+          10 100%    9.77kB/s    0:00:00 (xfer#85, to-check=1038/153086)
+main/r/ruby-fog-json/
+main/r/ruby-fog-json/__GUARD__1460109195
+
+          10 100%    0.07kB/s    0:00:00  
+          10 100%    0.07kB/s    0:00:00 (xfer#86, to-check=1004/156095)
+main/r/ruby-fog-radosgw/
+main/r/ruby-fog-serverlove/
+main/r/ruby-fog-serverlove/__GUARD__1460109195
+
+          10 100%    0.06kB/s    0:00:00  
+          10 100%    0.06kB/s    0:00:00 (xfer#87, to-check=1006/156126)
+main/r/ruby-sinatra/
+main/r/ruby-sinatra/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#88, to-check=1989/159341)
+main/r/ruby-six/
+main/r/ruby-snmp/
+main/r/ruby-snmp/__GUARD__1460109195
+
+          10 100%    0.03kB/s    0:00:00  
+          10 100%    0.03kB/s    0:00:00 (xfer#89, to-check=1963/159341)
+main/s/shinken-module-simple-log/
+main/s/shinken-module-simple-log/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#90, to-check=1010/162618)
+main/s/shogivar/
+main/s/shorewall-core/
+main/s/shorewall-core/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#91, to-check=1004/162675)
+main/s/squirrelmail-lockout/
+main/s/squirrelmail-sent-confirmation/
+main/s/squirrelmail-sent-confirmation/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#92, to-check=1007/166043)
+main/s/squirrelmail/
+main/s/squirrelmail/__GUARD__1460109195
+
+          10 100%    0.02kB/s    0:00:00  
+          10 100%    0.02kB/s    0:00:00 (xfer#93, to-check=1008/166057)
+main/t/tdb/
+main/t/tdb/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#94, to-check=1029/170684)
+main/t/tdbcpostgres/
+main/t/tdfsb/
+main/t/tdfsb/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#95, to-check=1007/170707)
+main/t/troffcvt/
+main/t/troffcvt/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#96, to-check=1005/173817)
+main/t/trove/
+main/t/truffle/
+main/t/truffle/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:00 (xfer#97, to-check=1006/173872)
+main/v/van.pydeb/
+main/v/van.pydeb/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#98, to-check=1025/177565)
+main/v/varconf/
+main/v/varmon/
+main/v/varmon/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#99, to-check=1009/177599)
+main/w/
+main/w/wondershaper/
+main/w/wondershaper/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#100, to-check=1004/181217)
+main/w/wordnet/
+main/w/wordpress-shibboleth/
+main/w/wordpress-shibboleth/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#101, to-check=1005/181267)
+main/w/wxmedit/
+main/w/wxmedit/wxmedit_3.1-3.debian.tar.xz
+
+        2264 100%    1.88kB/s    0:00:00  
+        2264 100%    1.88kB/s    0:00:01 (xfer#102, to-check=1009/181571)
+main/w/wxmedit/wxmedit_3.1-3.dsc
+
+         862 100%    0.71kB/s    0:00:00  
+         862 100%    0.71kB/s    0:00:01 (xfer#103, to-check=1008/181571)
+main/w/wxmedit/wxmedit_3.1-3_amd64.deb
+
+       32768   3%   27.12kB/s    0:00:34  
+       65536   6%   54.19kB/s    0:00:16  
+      967368 100%  550.52kB/s    0:00:01 (xfer#104, to-check=1007/181571)
+main/w/wxmedit/wxmedit_3.1-3_i386.deb
+
+       32768   3%   56.84kB/s    0:00:16  
+      720896  72%  691.55kB/s    0:00:00  
+      989610 100%  833.84kB/s    0:00:01 (xfer#105, to-check=1006/181571)
+main/w/wxmedit/wxmedit_3.1.orig.tar.xz
+
+       32768   2%  206.45kB/s    0:00:06  
+     1340568 100%    1.48MB/s    0:00:00 (xfer#106, to-check=1005/181571)
+main/x/xserver-xorg-video-siliconmotion/
+main/x/xserver-xorg-video-siliconmotion/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#107, to-check=1005/185037)
+main/x/xserver-xorg-video-vmware/
+main/x/xsettingsd/
+main/x/xsettingsd/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#108, to-check=1009/185071)
+main/x/xshisen/
+non-free/d/deepinwine-bitspirit/
+non-free/d/deepinwine-bitspirit/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#109, to-check=1003/188275)
+non-free/d/deepinwine-mailmaster/
+non-free/d/deepinwine-qqdownload/
+non-free/d/deepinwine-qqdownload/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#110, to-check=1003/188292)
+non-free/d/deepinwine-qqintl/
+non-free/o/
+non-free/o/oracle-java6/
+non-free/o/oracle-java6/oracle-java6_6u45-5.debian.tar.xz
+
+       10368 100%    8.25kB/s    0:00:00  
+       10368 100%    8.25kB/s    0:00:01 (xfer#111, to-check=1081/189807)
+non-free/o/oracle-java6/oracle-java6_6u45-5.dsc
+
+         932 100%    0.73kB/s    0:00:00  
+         932 100%    0.73kB/s    0:00:01 (xfer#112, to-check=1080/189807)
+non-free/o/oracle-java6/oracle-java6_6u45-5_amd64.deb
+
+       32768   0%   25.56kB/s    0:41:21  
+       65536   0%   51.12kB/s    0:20:39  
+     2260992   3%  979.16kB/s    0:01:02  
+     6094848   9%    1.78MB/s    0:00:31  
+     9175040  14%    2.06MB/s    0:00:25  
+    11501568  18%    2.72MB/s    0:00:18  
+    13533184  21%    2.67MB/s    0:00:18  
+    16023552  25%    2.35MB/s    0:00:19  
+    18644992  29%    2.24MB/s    0:00:19  
+    20545536  32%    2.14MB/s    0:00:19  
+    23232512  36%    2.30MB/s    0:00:17  
+    25198592  39%    2.18MB/s    0:00:17  
+    27459584  43%    2.09MB/s    0:00:16  
+    30343168  47%    2.31MB/s    0:00:13  
+    32702464  51%    2.23MB/s    0:00:13  
+    34996224  55%    2.31MB/s    0:00:12  
+    36995072  58%    2.25MB/s    0:00:11  
+    39452672  62%    2.15MB/s    0:00:10  
+    41746432  65%    2.14MB/s    0:00:09  
+    43679744  68%    2.05MB/s    0:00:09  
+    45547520  71%    2.02MB/s    0:00:08  
+    47742976  75%    1.96MB/s    0:00:07  
+    50266112  79%    2.02MB/s    0:00:06  
+    53575680  84%    2.34MB/s    0:00:04  
+    55934976  88%    2.46MB/s    0:00:02  
+    58458112  92%    2.54MB/s    0:00:01  
+    60227584  94%    2.36MB/s    0:00:01  
+    62816256  99%    2.19MB/s    0:00:00  
+    63447734 100%    2.19MB/s    0:00:27 (xfer#113, to-check=1079/189807)
+non-free/o/oracle-java6/oracle-java6_6u45-5_i386.deb
+
+       32768   0%  149.53kB/s    0:07:30  
+     1867776   2%    1.78MB/s    0:00:35  
+     4358144   6%    2.07MB/s    0:00:29  
+     6324224   9%    2.01MB/s    0:00:29  
+     8912896  13%    2.12MB/s    0:00:26  
+    10649600  15%    2.09MB/s    0:00:26  
+    13467648  19%    2.17MB/s    0:00:24  
+    15958016  23%    2.29MB/s    0:00:21  
+    18284544  27%    2.23MB/s    0:00:21  
+    20578304  30%    2.36MB/s    0:00:19  
+    22773760  33%    2.21MB/s    0:00:19  
+    25198592  37%    2.19MB/s    0:00:18  
+    27656192  41%    2.23MB/s    0:00:17  
+    29786112  44%    2.18MB/s    0:00:16  
+    32309248  47%    2.26MB/s    0:00:15  
+    34373632  51%    2.17MB/s    0:00:14  
+    36732928  54%    2.14MB/s    0:00:13  
+    38600704  57%    2.08MB/s    0:00:13  
+    41648128  61%    2.21MB/s    0:00:11  
+    43941888  65%    2.26MB/s    0:00:10  
+    46432256  68%    2.30MB/s    0:00:08  
+    48496640  72%    2.35MB/s    0:00:07  
+    50987008  75%    2.21MB/s    0:00:07  
+    53116928  78%    2.17MB/s    0:00:06  
+    55705600  82%    2.20MB/s    0:00:05  
+    58064896  86%    2.27MB/s    0:00:03  
+    60162048  89%    2.18MB/s    0:00:03  
+    62717952  93%    2.27MB/s    0:00:01  
+    65011712  96%    2.20MB/s    0:00:01  
+    67338878 100%    2.21MB/s    0:00:29 (xfer#114, to-check=1078/189807)
+non-free/o/oracle-java6/oracle-java6_6u45.orig.tar.xz
+
+       32768   0%   33.06kB/s    1:11:05  
+      131072   0%  126.86kB/s    0:18:30  
+     2228224   1%    1.05MB/s    0:02:08  
+     4587520   3%    1.45MB/s    0:01:31  
+     7110656   5%    1.68MB/s    0:01:17  
+     9371648   6%    2.19MB/s    0:00:58  
+    11141120   7%    2.11MB/s    0:01:00  
+    13238272   9%    2.05MB/s    0:01:01  
+    14811136  10%    1.82MB/s    0:01:07  
+    16580608  11%    1.70MB/s    0:01:11  
+    18677760  13%    1.78MB/s    0:01:07  
+    20480000  14%    1.71MB/s    0:01:08  
+    23166976  16%    1.98MB/s    0:00:58  
+    24477696  17%    1.88MB/s    0:01:00  
+    26378240  18%    1.83MB/s    0:01:01  
+    28966912  20%    2.02MB/s    0:00:54  
+    31457280  22%    1.97MB/s    0:00:54  
+    35225600  24%    2.55MB/s    0:00:40  
+    38010880  26%    2.76MB/s    0:00:36  
+    40337408  28%    2.70MB/s    0:00:36  
+    42172416  29%    2.54MB/s    0:00:38  
+    43745280  31%    2.02MB/s    0:00:47  
+    46563328  33%    2.02MB/s    0:00:45  
+    48988160  34%    2.04MB/s    0:00:43  
+    51511296  36%    2.22MB/s    0:00:39  
+    53477376  37%    2.31MB/s    0:00:37  
+    55443456  39%    2.11MB/s    0:00:39  
+    57933824  41%    2.13MB/s    0:00:38  
+    61243392  43%    2.31MB/s    0:00:33  
+    62947328  44%    2.25MB/s    0:00:33  
+    65142784  46%    2.31MB/s    0:00:32  
+    68091904  48%    2.41MB/s    0:00:29  
+    70647808  50%    2.24MB/s    0:00:30  
+    73007104  51%    2.39MB/s    0:00:27  
+    74973184  53%    2.33MB/s    0:00:27  
+    77266944  54%    2.18MB/s    0:00:28  
+    80052224  56%    2.23MB/s    0:00:26  
+    82116608  58%    2.15MB/s    0:00:26  
+    83853312  59%    2.10MB/s    0:00:26  
+    86835200  61%    2.26MB/s    0:00:23  
+    89456640  63%    2.22MB/s    0:00:22  
+    91389952  64%    2.19MB/s    0:00:22  
+    93093888  66%    2.18MB/s    0:00:21  
+    95223808  67%    1.98MB/s    0:00:22  
+    97222656  68%    1.84MB/s    0:00:23  
+    99876864  70%    2.01MB/s    0:00:20  
+   102334464  72%    2.19MB/s    0:00:17  
+   105021440  74%    2.32MB/s    0:00:15  
+   107905024  76%    2.53MB/s    0:00:12  
+   110395392  78%    2.49MB/s    0:00:12  
+   112164864  79%    2.32MB/s    0:00:12  
+   113999872  80%    2.13MB/s    0:00:12  
+   116129792  82%    1.94MB/s    0:00:12  
+   118226944  83%    1.85MB/s    0:00:12  
+   120717312  85%    2.02MB/s    0:00:09  
+   123207680  87%    2.18MB/s    0:00:07  
+   125435904  88%    2.20MB/s    0:00:06  
+   127369216  90%    2.17MB/s    0:00:06  
+   129433600  91%    2.06MB/s    0:00:05  
+   132841472  94%    2.27MB/s    0:00:03  
+   134971392  95%    2.25MB/s    0:00:02  
+   136806400  97%    2.22MB/s    0:00:01  
+   138182656  97%    2.06MB/s    0:00:01  
+   140247040  99%    1.75MB/s    0:00:00  
+   141037152 100%    2.11MB/s    0:01:03 (xfer#115, to-check=1077/189807)
+non-free/o/oracle-java7/
+non-free/o/oracle-java7/oracle-java7_7u79-5.debian.tar.xz
+
+       10476 100%   25.97kB/s    0:00:00  
+       10476 100%   25.97kB/s    0:00:00 (xfer#116, to-check=1076/189807)
+non-free/o/oracle-java7/oracle-java7_7u79-5.dsc
+
+         932 100%    2.26kB/s    0:00:00  
+         932 100%    2.26kB/s    0:00:00 (xfer#117, to-check=1075/189807)
+non-free/o/oracle-java7/oracle-java7_7u79-5_amd64.deb
+
+       32768   0%   77.29kB/s    0:27:27  
+     1605632   1%    1.52MB/s    0:01:20  
+     4685824   3%    2.22MB/s    0:00:53  
+     8323072   6%    2.63MB/s    0:00:44  
+    10715136   8%    2.54MB/s    0:00:44  
+    13107200  10%    2.73MB/s    0:00:40  
+    15237120  11%    2.51MB/s    0:00:43  
+    17793024  13%    2.25MB/s    0:00:47  
+    19857408  15%    2.18MB/s    0:00:48  
+    22315008  17%    2.19MB/s    0:00:46  
+    24510464  19%    2.20MB/s    0:00:45  
+    27099136  21%    2.20MB/s    0:00:44  
+    29360128  23%    2.24MB/s    0:00:42  
+    31817728  24%    2.24MB/s    0:00:41  
+    34242560  26%    2.30MB/s    0:00:39  
+    36044800  28%    2.12MB/s    0:00:42  
+    38338560  30%    2.12MB/s    0:00:41  
+    40468480  31%    2.04MB/s    0:00:41  
+    43614208  34%    2.22MB/s    0:00:36  
+    45547520  35%    2.25MB/s    0:00:35  
+    47742976  37%    2.24MB/s    0:00:34  
+    50561024  39%    2.40MB/s    0:00:31  
+    52330496  41%    2.07MB/s    0:00:35  
+    54591488  42%    2.15MB/s    0:00:33  
+    57573376  45%    2.33MB/s    0:00:29  
+    59768832  46%    2.18MB/s    0:00:30  
+    62128128  48%    2.32MB/s    0:00:27  
+    64520192  50%    2.36MB/s    0:00:26  
+    66879488  52%    2.21MB/s    0:00:26  
+    69140480  54%    2.23MB/s    0:00:25  
+    71499776  56%    2.22MB/s    0:00:24  
+    73859072  57%    2.21MB/s    0:00:23  
+    75759616  59%    2.10MB/s    0:00:23  
+    77791232  61%    2.04MB/s    0:00:23  
+    80936960  63%    2.23MB/s    0:00:20  
+    83165184  65%    2.20MB/s    0:00:19  
+    85622784  67%    2.33MB/s    0:00:17  
+    87949312  69%    2.40MB/s    0:00:16  
+    90243072  70%    2.20MB/s    0:00:16  
+    92700672  72%    2.25MB/s    0:00:15  
+    95059968  74%    2.23MB/s    0:00:14  
+    97320960  76%    2.22MB/s    0:00:13  
+    98729984  77%    2.00MB/s    0:00:13  
+   101154816  79%    1.99MB/s    0:00:12  
+   103219200  81%    1.92MB/s    0:00:12  
+   106364928  83%    2.13MB/s    0:00:09  
+   108855296  85%    2.40MB/s    0:00:07  
+   111214592  87%    2.38MB/s    0:00:06  
+   113573888  89%    2.45MB/s    0:00:05  
+   114720768  90%    1.97MB/s    0:00:06  
+   116424704  91%    1.78MB/s    0:00:06  
+   119308288  93%    1.91MB/s    0:00:04  
+   122421248  96%    2.09MB/s    0:00:02  
+   124649472  97%    2.36MB/s    0:00:01  
+   126812160  99%    2.47MB/s    0:00:00  
+   127411378 100%    2.22MB/s    0:00:54 (xfer#118, to-check=1074/189807)
+non-free/o/oracle-java7/oracle-java7_7u79-5_i386.deb
+
+       32768   0%  115.11kB/s    0:18:29  
+     2228224   1%    2.11MB/s    0:00:58  
+     4456448   3%    2.11MB/s    0:00:56  
+     7045120   5%    2.23MB/s    0:00:52  
+     9764864   7%    2.32MB/s    0:00:49  
+    11403264   8%    2.18MB/s    0:00:52  
+    13860864  10%    2.23MB/s    0:00:49  
+    16384000  12%    2.21MB/s    0:00:49  
+    18841600  14%    2.15MB/s    0:00:49  
+    21430272  16%    2.37MB/s    0:00:43  
+    23363584  18%    2.25MB/s    0:00:45  
+    25821184  20%    2.23MB/s    0:00:44  
+    27492352  21%    2.05MB/s    0:00:47  
+    29622272  23%    1.93MB/s    0:00:49  
+    31293440  24%    1.87MB/s    0:00:50  
+    33030144  25%    1.69MB/s    0:00:54  
+    34963456  27%    1.75MB/s    0:00:51  
+    36896768  28%    1.71MB/s    0:00:51  
+    39223296  30%    1.87MB/s    0:00:46  
+    41517056  32%    2.01MB/s    0:00:41  
+    43515904  34%    2.03MB/s    0:00:40  
+    46006272  36%    2.16MB/s    0:00:36  
+    47251456  36%    1.90MB/s    0:00:41  
+    48693248  38%    1.69MB/s    0:00:45  
+    50593792  39%    1.67MB/s    0:00:45  
+    51904512  40%    1.39MB/s    0:00:53  
+    54394880  42%    1.69MB/s    0:00:42  
+    57212928  44%    2.02MB/s    0:00:34  
+    61145088  47%    2.50MB/s    0:00:26  
+    63275008  49%    2.70MB/s    0:00:23  
+    65437696  51%    2.62MB/s    0:00:23  
+    67764224  53%    2.50MB/s    0:00:23  
+    70549504  55%    2.24MB/s    0:00:24  
+    72187904  56%    2.12MB/s    0:00:25  
+    73990144  57%    2.02MB/s    0:00:25  
+    76054528  59%    1.96MB/s    0:00:25  
+    79364096  62%    2.08MB/s    0:00:22  
+    82280448  64%    2.38MB/s    0:00:18  
+    84410368  66%    2.47MB/s    0:00:17  
+    86736896  67%    2.53MB/s    0:00:15  
+    89227264  69%    2.34MB/s    0:00:16  
+    91619328  71%    2.22MB/s    0:00:15  
+    93913088  73%    2.26MB/s    0:00:14  
+    96272384  75%    2.26MB/s    0:00:13  
+    97681408  76%    1.99MB/s    0:00:14  
+    99549184  77%    1.87MB/s    0:00:14  
+   101908480  79%    1.88MB/s    0:00:13  
+   104660992  81%    1.97MB/s    0:00:11  
+   105578496  82%    1.87MB/s    0:00:11  
+   106823680  83%    1.72MB/s    0:00:11  
+   108822528  85%    1.63MB/s    0:00:11  
+   111149056  87%    1.54MB/s    0:00:10  
+   114032640  89%    2.01MB/s    0:00:06  
+   117047296  91%    2.42MB/s    0:00:04  
+   119013376  93%    2.41MB/s    0:00:03  
+   121995264  95%    2.57MB/s    0:00:02  
+   125140992  97%    2.63MB/s    0:00:00  
+   127008768  99%    2.36MB/s    0:00:00  
+   127721642 100%    2.11MB/s    0:00:57 (xfer#119, to-check=1073/189807)
+non-free/o/oracle-java7/oracle-java7_7u79.orig.tar.xz
+
+       32768   0%  103.90kB/s    0:49:15  
+     1933312   0%    1.84MB/s    0:02:41  
+     4259840   1%    2.03MB/s    0:02:25  
+     6291456   2%    1.99MB/s    0:02:27  
+     8617984   2%    2.04MB/s    0:02:22  
+    11403264   3%    2.24MB/s    0:02:08  
+    13500416   4%    2.18MB/s    0:02:11  
+    15990784   5%    2.29MB/s    0:02:03  
+    17301504   5%    2.06MB/s    0:02:17  
+    19398656   6%    1.89MB/s    0:02:28  
+    22183936   7%    2.06MB/s    0:02:15  
+    25493504   8%    2.25MB/s    0:02:02  
+    27754496   9%    2.48MB/s    0:01:50  
+    30146560   9%    2.55MB/s    0:01:46  
+    32243712  10%    2.38MB/s    0:01:52  
+    34570240  11%    2.14MB/s    0:02:04  
+    37191680  12%    2.23MB/s    0:01:58  
+    39452672  12%    2.19MB/s    0:01:59  
+    41877504  13%    2.28MB/s    0:01:53  
+    43974656  14%    2.23MB/s    0:01:55  
+    46039040  14%    2.09MB/s    0:02:01  
+    48922624  15%    2.24MB/s    0:01:52  
+    51216384  16%    2.21MB/s    0:01:53  
+    53444608  17%    2.24MB/s    0:01:50  
+    55672832  18%    2.28MB/s    0:01:47  
+    58130432  18%    2.18MB/s    0:01:51  
+    60194816  19%    2.12MB/s    0:01:53  
+    62160896  20%    2.06MB/s    0:01:55  
+    64684032  21%    2.13MB/s    0:01:50  
+    66453504  21%    1.97MB/s    0:01:59  
+    68780032  22%    2.04MB/s    0:01:54  
+    71860224  23%    2.30MB/s    0:01:39  
+    73662464  23%    2.13MB/s    0:01:46  
+    75825152  24%    2.21MB/s    0:01:41  
+    77529088  25%    2.06MB/s    0:01:48  
+    79134720  25%    1.71MB/s    0:02:10  
+    80412672  26%    1.58MB/s    0:02:20  
+    82018304  26%    1.46MB/s    0:02:31  
+    83853312  27%    1.49MB/s    0:02:26  
+    85393408  27%    1.48MB/s    0:02:26  
+    86966272  28%    1.56MB/s    0:02:18  
+    89260032  29%    1.71MB/s    0:02:04  
+    91095040  29%    1.72MB/s    0:02:02  
+    93814784  30%    1.99MB/s    0:01:44  
+    97157120  31%    2.41MB/s    0:01:24  
+   100106240  32%    2.57MB/s    0:01:18  
+   101777408  33%    2.53MB/s    0:01:19  
+   103153664  33%    2.21MB/s    0:01:30  
+   105316352  34%    1.93MB/s    0:01:42  
+   108232704  35%    1.92MB/s    0:01:41  
+   111476736  36%    2.30MB/s    0:01:22  
+   114393088  37%    2.67MB/s    0:01:10  
+   116326400  37%    2.62MB/s    0:01:11  
+   119078912  38%    2.57MB/s    0:01:11  
+   121143296  39%    2.28MB/s    0:01:19  
+   122585088  39%    1.93MB/s    0:01:33  
+   124387328  40%    1.90MB/s    0:01:34  
+   126058496  41%    1.65MB/s    0:01:47  
+   127729664  41%    1.56MB/s    0:01:52  
+   130220032  42%    1.81MB/s    0:01:35  
+   132972544  43%    2.03MB/s    0:01:23  
+   134905856  43%    2.10MB/s    0:01:20  
+   136970240  44%    2.19MB/s    0:01:15  
+   140443648  45%    2.43MB/s    0:01:06  
+   143884288  46%    2.59MB/s    0:01:01  
+   146046976  47%    2.61MB/s    0:01:00  
+   148242432  48%    2.64MB/s    0:00:58  
+   150994944  49%    2.48MB/s    0:01:01  
+   153354240  49%    2.22MB/s    0:01:07  
+   155680768  50%    2.29MB/s    0:01:04  
+   157122560  51%    2.10MB/s    0:01:09  
+   158728192  51%    1.82MB/s    0:01:19  
+   161251328  52%    1.86MB/s    0:01:16  
+   163676160  53%    1.88MB/s    0:01:14  
+   166658048  54%    2.25MB/s    0:01:00  
+   169738240  55%    2.61MB/s    0:00:51  
+   171671552  55%    2.47MB/s    0:00:53  
+   174555136  56%    2.58MB/s    0:00:50  
+   176717824  57%    2.38MB/s    0:00:53  
+   179240960  58%    2.25MB/s    0:00:55  
+   181272576  59%    2.28MB/s    0:00:53  
+   183861248  59%    2.21MB/s    0:00:54  
+   186187776  60%    2.25MB/s    0:00:52  
+   188612608  61%    2.21MB/s    0:00:52  
+   190775296  62%    2.24MB/s    0:00:50  
+   192872448  62%    2.13MB/s    0:00:52  
+   195198976  63%    2.13MB/s    0:00:51  
+   197165056  64%    2.03MB/s    0:00:52  
+   199917568  65%    2.17MB/s    0:00:48  
+   202440704  65%    2.27MB/s    0:00:45  
+   204865536  66%    2.29MB/s    0:00:43  
+   206962688  67%    2.32MB/s    0:00:42  
+   208535552  67%    2.04MB/s    0:00:47  
+   210370560  68%    1.88MB/s    0:00:50  
+   212074496  69%    1.70MB/s    0:00:54  
+   214204416  69%    1.71MB/s    0:00:53  
+   216367104  70%    1.86MB/s    0:00:47  
+   219021312  71%    2.05MB/s    0:00:41  
+   221609984  72%    2.26MB/s    0:00:36  
+   225214464  73%    2.62MB/s    0:00:30  
+   227737600  74%    2.70MB/s    0:00:28  
+   230293504  75%    2.67MB/s    0:00:28  
+   231800832  75%    2.42MB/s    0:00:30  
+   233766912  76%    2.03MB/s    0:00:35  
+   236322816  76%    2.03MB/s    0:00:33  
+   238354432  77%    1.92MB/s    0:00:34  
+   240746496  78%    2.12MB/s    0:00:30  
+   243793920  79%    2.38MB/s    0:00:25  
+   246579200  80%    2.43MB/s    0:00:24  
+   248905728  81%    2.50MB/s    0:00:22  
+   251068416  81%    2.45MB/s    0:00:22  
+   253526016  82%    2.30MB/s    0:00:22  
+   255787008  83%    2.18MB/s    0:00:22  
+   258244608  84%    2.21MB/s    0:00:21  
+   260571136  84%    2.25MB/s    0:00:20  
+   262897664  85%    2.23MB/s    0:00:19  
+   265027584  86%    2.19MB/s    0:00:18  
+   267091968  86%    2.10MB/s    0:00:18  
+   269844480  87%    2.20MB/s    0:00:16  
+   272334848  88%    2.23MB/s    0:00:15  
+   274071552  89%    2.15MB/s    0:00:15  
+   276922368  90%    2.33MB/s    0:00:12  
+   279281664  90%    2.24MB/s    0:00:12  
+   281280512  91%    2.11MB/s    0:00:11  
+   283344896  92%    2.19MB/s    0:00:10  
+   286294016  93%    2.21MB/s    0:00:09  
+   288555008  93%    2.19MB/s    0:00:08  
+   290848768  94%    2.27MB/s    0:00:06  
+   293371904  95%    2.37MB/s    0:00:05  
+   295337984  96%    2.14MB/s    0:00:05  
+   297762816  96%    2.18MB/s    0:00:04  
+   300351488  97%    2.24MB/s    0:00:02  
+   302186496  98%    2.09MB/s    0:00:02  
+   305070080  99%    2.29MB/s    0:00:00  
+   306708480  99%    2.11MB/s    0:00:00  
+   307046652 100%    2.17MB/s    0:02:15 (xfer#120, to-check=1072/189807)
+non-free/o/oracle-java8/
+non-free/o/oracle-java8/oracle-java8_8u77-1.debian.tar.xz
+
+       10792 100%   65.06kB/s    0:00:00  
+       10792 100%   65.06kB/s    0:00:00 (xfer#121, to-check=1066/189807)
+non-free/o/oracle-java8/oracle-java8_8u77-1.dsc
+
+         939 100%    5.56kB/s    0:00:00  
+         939 100%    5.56kB/s    0:00:00 (xfer#122, to-check=1065/189807)
+non-free/o/oracle-java8/oracle-java8_8u77-1_amd64.deb
+
+       32768   0%  178.77kB/s    0:13:56  
+     1835008   1%    1.75MB/s    0:01:22  
+     3604480   2%    1.71MB/s    0:01:23  
+     5865472   3%    1.85MB/s    0:01:15  
+     8421376   5%    2.00MB/s    0:01:08  
+    10878976   7%    2.15MB/s    0:01:03  
+    14254080   9%    2.53MB/s    0:00:52  
+    16580608  11%    2.55MB/s    0:00:50  
+    19005440  12%    2.52MB/s    0:00:50  
+    21200896  14%    2.45MB/s    0:00:51  
+    22773760  15%    2.02MB/s    0:01:01  
+    24313856  16%    1.83MB/s    0:01:06  
+    27066368  18%    1.91MB/s    0:01:02  
+    30834688  20%    2.28MB/s    0:00:50  
+    32997376  22%    2.42MB/s    0:00:46  
+    35422208  23%    2.63MB/s    0:00:42  
+    37748736  25%    2.54MB/s    0:00:43  
+    39911424  26%    2.15MB/s    0:00:49  
+    42532864  28%    2.26MB/s    0:00:46  
+    44859392  30%    2.24MB/s    0:00:45  
+    47054848  31%    2.21MB/s    0:00:45  
+    49446912  33%    2.26MB/s    0:00:43  
+    51806208  34%    2.20MB/s    0:00:43  
+    54165504  36%    2.21MB/s    0:00:42  
+    56492032  37%    2.24MB/s    0:00:40  
+    58294272  38%    2.11MB/s    0:00:42  
+    59572224  39%    1.84MB/s    0:00:47  
+    61865984  41%    1.83MB/s    0:00:46  
+    64684032  43%    1.94MB/s    0:00:42  
+    67305472  45%    2.14MB/s    0:00:37  
+    69533696  46%    2.37MB/s    0:00:32  
+    72155136  48%    2.45MB/s    0:00:30  
+    75202560  50%    2.50MB/s    0:00:29  
+    77135872  51%    2.32MB/s    0:00:30  
+    79822848  53%    2.43MB/s    0:00:28  
+    82149376  54%    2.36MB/s    0:00:27  
+    84082688  56%    2.10MB/s    0:00:30  
+    86441984  57%    2.21MB/s    0:00:27  
+    88834048  59%    2.14MB/s    0:00:27  
+    91553792  61%    2.24MB/s    0:00:25  
+    93552640  62%    2.24MB/s    0:00:24  
+    95879168  64%    2.23MB/s    0:00:23  
+    97550336  65%    2.06MB/s    0:00:24  
+    99319808  66%    1.83MB/s    0:00:26  
+   101875712  68%    1.97MB/s    0:00:23  
+   104464384  69%    2.03MB/s    0:00:21  
+   106987520  71%    2.24MB/s    0:00:18  
+   109150208  72%    2.33MB/s    0:00:16  
+   111706112  74%    2.33MB/s    0:00:15  
+   114655232  76%    2.42MB/s    0:00:14  
+   117342208  78%    2.45MB/s    0:00:12  
+   119308288  79%    2.40MB/s    0:00:12  
+   121307136  81%    2.27MB/s    0:00:12  
+   123994112  82%    2.21MB/s    0:00:11  
+   126550016  84%    2.18MB/s    0:00:10  
+   128843776  86%    2.26MB/s    0:00:08  
+   130711552  87%    2.23MB/s    0:00:08  
+   133660672  89%    2.30MB/s    0:00:06  
+   135954432  90%    2.23MB/s    0:00:05  
+   137691136  92%    2.10MB/s    0:00:05  
+   139722752  93%    2.14MB/s    0:00:04  
+   142671872  95%    2.14MB/s    0:00:03  
+   144703488  96%    2.07MB/s    0:00:02  
+   147423232  98%    2.30MB/s    0:00:00  
+   149524704 100%    2.22MB/s    0:01:04 (xfer#123, to-check=1064/189807)
+non-free/o/oracle-java8/oracle-java8_8u77-1_i386.deb
+
+       32768   0%   31.75kB/s    1:19:24  
+       65536   0%   61.84kB/s    0:40:45  
+     1933312   1%  921.88kB/s    0:02:42  
+     4816896   3%    1.51MB/s    0:01:35  
+     7667712   5%    1.80MB/s    0:01:17  
+     9994240   6%    2.35MB/s    0:00:58  
+    11665408   7%    2.31MB/s    0:00:59  
+    13991936   9%    2.18MB/s    0:01:01  
+    16056320  10%    1.99MB/s    0:01:06  
+    18808832  12%    2.10MB/s    0:01:01  
+    21135360  13%    2.25MB/s    0:00:56  
+    23986176  15%    2.37MB/s    0:00:52  
+    26312704  17%    2.44MB/s    0:00:50  
+    28508160  18%    2.30MB/s    0:00:52  
+    30900224  20%    2.31MB/s    0:00:50  
+    33357824  22%    2.22MB/s    0:00:51  
+    35717120  23%    2.23MB/s    0:00:50  
+    37519360  24%    2.13MB/s    0:00:52  
+    40435712  26%    2.25MB/s    0:00:48  
+    42205184  27%    2.09MB/s    0:00:50  
+    44957696  29%    2.18MB/s    0:00:47  
+    47415296  31%    2.34MB/s    0:00:43  
+    49479680  32%    2.15MB/s    0:00:46  
+    51576832  34%    2.22MB/s    0:00:43  
+    54198272  35%    2.19MB/s    0:00:43  
+    56786944  37%    2.22MB/s    0:00:41  
+    58916864  38%    2.23MB/s    0:00:40  
+    61276160  40%    2.30MB/s    0:00:38  
+    63799296  42%    2.28MB/s    0:00:37  
+    65929216  43%    2.17MB/s    0:00:38  
+    68157440  45%    2.18MB/s    0:00:37  
+    70811648  46%    2.25MB/s    0:00:34  
+    73236480  48%    2.22MB/s    0:00:34  
+    75169792  49%    2.19MB/s    0:00:34  
+    77561856  51%    2.23MB/s    0:00:32  
+    80248832  53%    2.23MB/s    0:00:31  
+    82345984  54%    2.16MB/s    0:00:31  
+    84934656  56%    2.31MB/s    0:00:28  
+    87195648  57%    2.28MB/s    0:00:27  
+    89325568  59%    2.15MB/s    0:00:28  
+    91029504  60%    2.06MB/s    0:00:28  
+    93454336  61%    2.02MB/s    0:00:27  
+    95322112  63%    1.93MB/s    0:00:28  
+    98369536  65%    2.14MB/s    0:00:24  
+   100958208  66%    2.35MB/s    0:00:20  
+   102301696  67%    2.09MB/s    0:00:22  
+   104136704  68%    2.09MB/s    0:00:22  
+   106692608  70%    1.97MB/s    0:00:22  
+   108756992  71%    1.85MB/s    0:00:22  
+   111902720  73%    2.28MB/s    0:00:16  
+   115310592  76%    2.65MB/s    0:00:13  
+   117604352  77%    2.59MB/s    0:00:12  
+   119963648  79%    2.65MB/s    0:00:11  
+   122060800  80%    2.41MB/s    0:00:11  
+   124551168  82%    2.19MB/s    0:00:11  
+   127041536  83%    2.23MB/s    0:00:10  
+   128811008  85%    2.09MB/s    0:00:10  
+   131366912  86%    2.20MB/s    0:00:08  
+   133922816  88%    2.22MB/s    0:00:07  
+   136151040  89%    2.16MB/s    0:00:06  
+   138674176  91%    2.33MB/s    0:00:05  
+   140738560  93%    2.21MB/s    0:00:04  
+   143360000  94%    2.22MB/s    0:00:03  
+   145588224  96%    2.23MB/s    0:00:02  
+   147750912  97%    2.15MB/s    0:00:01  
+   150405120  99%    2.30MB/s    0:00:00  
+   151295068 100%    2.19MB/s    0:01:05 (xfer#124, to-check=1063/189807)
+non-free/o/oracle-java8/oracle-java8_8u77.orig.tar.xz
+
+       32768   0%   76.19kB/s    1:19:22  
+     1343488   0%    1.27MB/s    0:04:37  
+     3801088   1%    1.79MB/s    0:03:15  
+     5898240   1%    1.86MB/s    0:03:07  
+     8257536   2%    1.95MB/s    0:02:57  
+    10584064   2%    2.19MB/s    0:02:37  
+    13107200   3%    2.20MB/s    0:02:35  
+    14942208   4%    2.13MB/s    0:02:39  
+    17301504   4%    2.14MB/s    0:02:37  
+    20185088   5%    2.27MB/s    0:02:27  
+    22446080   6%    2.21MB/s    0:02:30  
+    24772608   6%    2.32MB/s    0:02:22  
+    26902528   7%    2.26MB/s    0:02:24  
+    29655040   8%    2.22MB/s    0:02:26  
+    31358976   8%    2.09MB/s    0:02:34  
+    33423360   9%    2.04MB/s    0:02:37  
+    36405248  10%    2.24MB/s    0:02:22  
+    38993920  10%    2.22MB/s    0:02:22  
+    41189376  11%    2.33MB/s    0:02:14  
+    43712512  12%    2.44MB/s    0:02:07  
+    46006272  12%    2.28MB/s    0:02:15  
+    48365568  13%    2.22MB/s    0:02:18  
+    50397184  13%    2.17MB/s    0:02:20  
+    52527104  14%    2.08MB/s    0:02:25  
+    55443456  15%    2.23MB/s    0:02:14  
+    57540608  15%    2.16MB/s    0:02:17  
+    60096512  16%    2.29MB/s    0:02:08  
+    62324736  17%    2.31MB/s    0:02:07  
+    64323584  17%    2.09MB/s    0:02:19  
+    67174400  18%    2.27MB/s    0:02:06  
+    69500928  19%    2.22MB/s    0:02:08  
+    71467008  19%    2.17MB/s    0:02:11  
+    73105408  20%    2.07MB/s    0:02:16  
+    74547200  20%    1.74MB/s    0:02:41  
+    77234176  21%    1.83MB/s    0:02:32  
+    79003648  21%    1.78MB/s    0:02:35  
+    81592320  22%    2.01MB/s    0:02:16  
+    85458944  23%    2.59MB/s    0:01:44  
+    87982080  24%    2.55MB/s    0:01:45  
+    90046464  24%    2.62MB/s    0:01:41  
+    92930048  25%    2.69MB/s    0:01:38  
+    95223808  26%    2.32MB/s    0:01:52  
+    97615872  26%    2.29MB/s    0:01:53  
+    99909632  27%    2.34MB/s    0:01:49  
+   102203392  28%    2.20MB/s    0:01:55  
+   104235008  28%    2.14MB/s    0:01:58  
+   106692608  29%    2.15MB/s    0:01:56  
+   108920832  30%    2.13MB/s    0:01:56  
+   111411200  30%    2.18MB/s    0:01:52  
+   113770496  31%    2.26MB/s    0:01:47  
+   116228096  32%    2.25MB/s    0:01:46  
+   117866496  32%    2.11MB/s    0:01:53  
+   120717312  33%    2.20MB/s    0:01:47  
+   123371520  33%    2.26MB/s    0:01:43  
+   125698048  34%    2.24MB/s    0:01:43  
+   127991808  35%    2.41MB/s    0:01:35  
+   130187264  35%    2.25MB/s    0:01:41  
+   132710400  36%    2.22MB/s    0:01:41  
+   134938624  37%    2.19MB/s    0:01:41  
+   137428992  37%    2.24MB/s    0:01:38  
+   139689984  38%    2.26MB/s    0:01:36  
+   141787136  39%    2.15MB/s    0:01:40  
+   144343040  39%    2.22MB/s    0:01:35  
+   146800640  40%    2.21MB/s    0:01:35  
+   148275200  40%    2.03MB/s    0:01:43  
+   149913600  41%    1.91MB/s    0:01:48  
+   152109056  41%    1.83MB/s    0:01:52  
+   155090944  42%    1.96MB/s    0:01:43  
+   158466048  43%    2.40MB/s    0:01:23  
+   160858112  44%    2.59MB/s    0:01:16  
+   162922496  44%    2.55MB/s    0:01:16  
+   164429824  45%    2.20MB/s    0:01:28  
+   166428672  45%    1.89MB/s    0:01:41  
+   168493056  46%    1.81MB/s    0:01:44  
+   171442176  47%    2.03MB/s    0:01:32  
+   174948352  48%    2.50MB/s    0:01:13  
+   177045504  48%    2.52MB/s    0:01:11  
+   179470336  49%    2.60MB/s    0:01:08  
+   181895168  50%    2.47MB/s    0:01:11  
+   184156160  50%    2.18MB/s    0:01:20  
+   186220544  51%    2.17MB/s    0:01:19  
+   187990016  51%    2.02MB/s    0:01:24  
+   190382080  52%    2.02MB/s    0:01:23  
+   193560576  53%    2.24MB/s    0:01:13  
+   195657728  53%    2.24MB/s    0:01:12  
+   198311936  54%    2.45MB/s    0:01:05  
+   200572928  55%    2.41MB/s    0:01:05  
+   202866688  55%    2.20MB/s    0:01:10  
+   205160448  56%    2.25MB/s    0:01:08  
+   207519744  57%    2.18MB/s    0:01:09  
+   209289216  57%    2.06MB/s    0:01:12  
+   212074496  58%    2.18MB/s    0:01:07  
+   214204416  59%    2.14MB/s    0:01:07  
+   216236032  59%    2.07MB/s    0:01:09  
+   218497024  60%    2.19MB/s    0:01:04  
+   221446144  61%    2.23MB/s    0:01:01  
+   224002048  61%    2.32MB/s    0:00:58  
+   225673216  62%    2.23MB/s    0:01:00  
+   228556800  62%    2.38MB/s    0:00:55  
+   230850560  63%    2.22MB/s    0:00:58  
+   232947712  64%    2.11MB/s    0:01:00  
+   235765760  64%    2.38MB/s    0:00:52  
+   237535232  65%    2.12MB/s    0:00:57  
+   239828992  66%    2.12MB/s    0:00:56  
+   242450432  66%    2.25MB/s    0:00:52  
+   245071872  67%    2.21MB/s    0:00:52  
+   247496704  68%    2.37MB/s    0:00:47  
+   249659392  68%    2.33MB/s    0:00:47  
+   251920384  69%    2.24MB/s    0:00:48  
+   254214144  70%    2.16MB/s    0:00:49  
+   255983616  70%    2.01MB/s    0:00:51  
+   258146304  71%    2.01MB/s    0:00:50  
+   260472832  71%    2.03MB/s    0:00:49  
+   263782400  72%    2.27MB/s    0:00:42  
+   265650176  73%    2.29MB/s    0:00:41  
+   267616256  73%    2.25MB/s    0:00:41  
+   270794752  74%    2.46MB/s    0:00:36  
+   273154048  75%    2.23MB/s    0:00:39  
+   275120128  75%    2.25MB/s    0:00:38  
+   276660224  76%    2.14MB/s    0:00:39  
+   279478272  77%    2.05MB/s    0:00:39  
+   282558464  77%    2.22MB/s    0:00:35  
+   284426240  78%    2.19MB/s    0:00:34  
+   285966336  78%    2.20MB/s    0:00:34  
+   288849920  79%    2.21MB/s    0:00:32  
+   291864576  80%    2.20MB/s    0:00:31  
+   293896192  80%    2.24MB/s    0:00:30  
+   296124416  81%    2.40MB/s    0:00:27  
+   298975232  82%    2.39MB/s    0:00:26  
+   301006848  82%    2.16MB/s    0:00:28  
+   303497216  83%    2.26MB/s    0:00:25  
+   305168384  84%    2.13MB/s    0:00:26  
+   307658752  84%    2.05MB/s    0:00:26  
+   309952512  85%    2.11MB/s    0:00:24  
+   312573952  86%    2.16MB/s    0:00:22  
+   315392000  86%    2.43MB/s    0:00:19  
+   317489152  87%    2.33MB/s    0:00:18  
+   319684608  88%    2.31MB/s    0:00:18  
+   322371584  88%    2.32MB/s    0:00:17  
+   324370432  89%    2.13MB/s    0:00:17  
+   326991872  90%    2.25MB/s    0:00:15  
+   329482240  90%    2.30MB/s    0:00:14  
+   331579392  91%    2.17MB/s    0:00:14  
+   334102528  92%    2.29MB/s    0:00:12  
+   336199680  92%    2.17MB/s    0:00:12  
+   338755584  93%    2.19MB/s    0:00:10  
+   341245952  94%    2.29MB/s    0:00:09  
+   343310336  94%    2.18MB/s    0:00:08  
+   345571328  95%    2.22MB/s    0:00:07  
+   347996160  95%    2.19MB/s    0:00:06  
+   350519296  96%    2.20MB/s    0:00:05  
+   352223232  97%    2.11MB/s    0:00:04  
+   353337344  97%    1.83MB/s    0:00:05  
+   354746368  97%    1.59MB/s    0:00:05  
+   357007360  98%    1.52MB/s    0:00:03  
+   360120320  99%    1.87MB/s    0:00:01  
+   362893872 100%    2.21MB/s    0:02:36 (xfer#125, to-check=1062/189807)
+universe/w/wine-gecko2.21/
+universe/w/wine-gecko2.21/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#126, to-check=71/190897)
+universe/w/wine-mono4.5.2/
+universe/w/wine-mono4.5.2/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#127, to-check=37/190897)
+universe/w/wine-mono4.5.4/
+universe/w/winetricks/
+universe/z/zlib/
+universe/z/zlib/__GUARD__1460109195
+
+          10 100%    0.01kB/s    0:00:00  
+          10 100%    0.01kB/s    0:00:01 (xfer#128, to-check=2/190897)
+
+sent 1507658785 bytes  received 28771 bytes  2279195.10 bytes/sec
+total size is 256643172513  speedup is 170.22
+sending incremental file list
+./
+SHA1/
+SHA1/31363dd66a1d05fa73d072304622ec2273d0de6f
+
+         121 100%    0.00kB/s    0:00:00  
+         121 100%    0.00kB/s    0:00:00 (xfer#1, to-check=5/9)
+SHA1/4d7787cb5352f56dc3af769851dc75f1374f6094
+
+        3704   0%  180.86kB/s    0:01:16  
+    13749347 100%   75.36MB/s    0:00:00 (xfer#2, to-check=4/9)
+SHA1/715fe5f1696d93e431a6cd407e032f90e9ad292a
+
+        7232   0%   36.22kB/s    0:24:03  
+    52303301 100%   64.78MB/s    0:00:00 (xfer#3, to-check=3/9)
+
+sent 44334 bytes  received 72988 bytes  46928.80 bytes/sec
+total size is 130721527  speedup is 1114.21
+sending incremental file list
+./
+SHA1/
+SHA1/49df10b7cd6e4c9812e2f4ea2cfd0af4ddf4e7f4
+
+         120 100%    0.00kB/s    0:00:00  
+         120 100%    0.00kB/s    0:00:00 (xfer#1, to-check=5/9)
+SHA1/5f07eb5c8e9fc339d2ebd2c432f1eaa057138f9a
+
+        3696   0%  189.97kB/s    0:01:12  
+    13710057 100%   79.73MB/s    0:00:00 (xfer#2, to-check=4/9)
+SHA1/b0816e260c5297013104f0aecc5d943f48c55ed0
+
+        7208   0%   40.69kB/s    0:21:19  
+    52052734 100%   65.66MB/s    0:00:00 (xfer#3, to-check=3/9)
+
+sent 44279 bytes  received 72893 bytes  78114.67 bytes/sec
+total size is 130215584  speedup is 1111.32
+sending incremental file list
+./
+SHA1/
+SHA1/293a0750d15ce135c6bf09c202de1b9f6e57f753
+
+         122 100%    0.00kB/s    0:00:00  
+         122 100%    0.00kB/s    0:00:00 (xfer#1, to-check=4/8)
+SHA1/9f4b9c692adeb5e89f8e40223a93d62ce5bd07c0
+
+        3264   0%  796.88kB/s    0:00:13  
+    10676038 100%   77.72MB/s    0:00:00 (xfer#2, to-check=3/8)
+SHA1/c29dfd19382708e59124f4dbf76b941568b88b58
+
+        6208   0%   40.15kB/s    0:16:00  
+    38585210 100%   62.90MB/s    0:00:00 (xfer#3, to-check=2/8)
+
+sent 38428 bytes  received 63217 bytes  67763.33 bytes/sec
+total size is 59871512  speedup is 589.03
+sending incremental file list
+./
+2016-04-08-1748.54.gz
+
+        7924 100%    0.00kB/s    0:00:00  
+        7924 100%    0.00kB/s    0:00:00 (xfer#1, to-check=7/22)
+2016-04-08-1758.48.gz
+
+        7924 100%    7.56MB/s    0:00:00  
+        7924 100%    7.56MB/s    0:00:00 (xfer#2, to-check=6/22)
+2016-04-08-1801.14.gz
+
+        7924 100%  644.86kB/s    0:00:00  
+        7924 100%  644.86kB/s    0:00:00 (xfer#3, to-check=5/22)
+by-hash/
+by-hash/SHA1/
+by-hash/SHA1/f6c1f7816fc95cb1f8cd4bb9d00b882bfd62ca9f
+
+         700  39%   42.72kB/s    0:00:00  
+        1760 100%  107.42kB/s    0:00:00 (xfer#4, to-check=1/22)
+by-hash/SHA256/
+by-hash/SHA256/82b2c780d6dd79768433897cfca2510e9dcf32e3227aecdeee348dec8dca9747
+
+         700  39%   24.41kB/s    0:00:00  
+        1760 100%   61.38kB/s    0:00:00 (xfer#5, to-check=0/22)
+
+sent 24636 bytes  received 154 bytes  16526.67 bytes/sec
+total size is 1476153  speedup is 59.55
+sending incremental file list
+./
+2016-04-08-1748.46.gz
+
+        7735 100%    0.00kB/s    0:00:00  
+        7735 100%    0.00kB/s    0:00:00 (xfer#1, to-check=7/22)
+2016-04-08-1758.40.gz
+
+        7735 100%    7.38MB/s    0:00:00  
+        7735 100%    7.38MB/s    0:00:00 (xfer#2, to-check=6/22)
+2016-04-08-1801.06.gz
+
+        7735 100%  581.05kB/s    0:00:00  
+        7735 100%  581.05kB/s    0:00:00 (xfer#3, to-check=5/22)
+by-hash/
+by-hash/SHA1/
+by-hash/SHA1/138d832e80d7f078b8b113c74026ca21c3a8e4ef
+
+         700  39%   24.41kB/s    0:00:00  
+        1760 100%   61.38kB/s    0:00:00 (xfer#4, to-check=1/22)
+by-hash/SHA256/
+by-hash/SHA256/e8bd1b2bafcb024ed9daf4cd46614298724e3507fc3fb99aa72a8c0914713963
+
+         700  39%   17.99kB/s    0:00:00  
+        1760 100%   45.23kB/s    0:00:00 (xfer#5, to-check=0/22)
+
+sent 24034 bytes  received 154 bytes  48376.00 bytes/sec
+total size is 1452900  speedup is 60.07
+sending incremental file list
+./
+2016-04-08-1749.07.gz
+
+        5581 100%    0.00kB/s    0:00:00  
+        5581 100%    0.00kB/s    0:00:00 (xfer#1, to-check=7/18)
+2016-04-08-1758.54.gz
+
+        5581 100%    5.32MB/s    0:00:00  
+        5581 100%    5.32MB/s    0:00:00 (xfer#2, to-check=6/18)
+2016-04-08-1801.20.gz
+
+        5581 100%  419.25kB/s    0:00:00  
+        5581 100%  419.25kB/s    0:00:00 (xfer#3, to-check=5/18)
+by-hash/
+by-hash/SHA1/
+by-hash/SHA1/961c51eef7bab7f066900955ab5a5ff3ccdf60f7
+
+         700  58%   40.21kB/s    0:00:00  
+        1204 100%   69.16kB/s    0:00:00 (xfer#4, to-check=1/18)
+by-hash/SHA256/
+by-hash/SHA256/ce24b59dca05a2b73abcae664ff2a09a37b6875609834381ebe2bb1870b9830c
+
+         700  58%   37.98kB/s    0:00:00  
+        1204 100%   65.32kB/s    0:00:00 (xfer#5, to-check=0/18)
+
+sent 17469 bytes  received 142 bytes  35222.00 bytes/sec
+total size is 658001  speedup is 37.36
