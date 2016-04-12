@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # print(size)
 
     totallen = len(datalines)
-    filelist = {}
+    filelist = []
     num = 0
     timere = re.compile(r'\d+:\d+:\d+')
     while num < totallen:
@@ -49,6 +49,7 @@ if __name__ == '__main__':
             pass
         else:
             filepath = datalines[num].strip()
+            filename = os.path.basename(filepath)
             filesize = 0
             step = 0
             maxnum = totallen - num
@@ -57,7 +58,11 @@ if __name__ == '__main__':
                     # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
                     # to-check=1079/189807)
                     filesize = datalines[num + step].strip().split(' ')[0]
-                    filelist[filepath] = filesize
+                    filelist.append({
+                        "filename": filename,
+                        "filepath": filepath,
+                        "filesize": filesize
+                    })
                     num = num + step
                     break
                 else:
