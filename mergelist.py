@@ -6,12 +6,20 @@ import os
 import json
 
 if __name__ == '__main__':
+    """python3 mergelist.py rsync.log currenttime lasttime
+    example:
+    python3 mergelist.py rsync.log currenttime lasttime
+    """
 
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 4:
         os._exit(1)
 
-    jsonfile = sys.argv[1]
-    with open(jsonfile, "r") as f:
+    logfile = sys.argv[1]
+
+    currenttime = sys.argv[2]
+    lasttime = sys.argv[3]
+
+    with open(logfile, "r") as f:
         data = f.read()
 
     datalines = data.split('\n')
@@ -47,10 +55,24 @@ if __name__ == '__main__':
             pass
         elif re.findall(timere, datalines[num]):
             pass
+        elif datalines[num].startswith('deleting'):
+            filepath = datalines[num].strip().split(' ')[1]
+            if 'dists/' in filepath:
+                pass
+            else:
+                filesize = 0
+                filelist.append({
+                    "filepath": filepath,
+                    "filesize": "0",
+                    "type": "Delete"
+                })
+
         else:
             filepath = datalines[num].strip()
             # only show files in pools
-            if 'non-free/' in filepath or 'main/' in filepath or 'contrib/' in filepath:
+            if 'dists/' in filepath:
+                pass
+            elif 'non-free/' in filepath or 'main/' in filepath or 'contrib/' in filepath:
                 filepath = "pool/" + filepath
                 filesize = 0
                 step = 0
@@ -62,7 +84,8 @@ if __name__ == '__main__':
                         filesize = datalines[num + step].strip().split(' ')[0]
                         filelist.append({
                             "filepath": filepath,
-                            "filesize": filesize
+                            "filesize": filesize,
+                            "type": "Add"
                         })
                         num = num + step
                         break
@@ -73,8 +96,10 @@ if __name__ == '__main__':
 
     jsondata = {
         "size": size,
-        "details": filelist
+        "details": filelist,
+        "last": lasttime,
+        "current": currenttime
     }
 
-    with open('mergelist.json', 'w') as f:
+    with open(currenttime, 'w') as f:
         json.dump(jsondata, f)
