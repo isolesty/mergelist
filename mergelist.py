@@ -36,6 +36,8 @@ if __name__ == '__main__':
 
     totallen = len(datalines)
     filelist = []
+    deletelist = []
+    addlist = []
     num = 0
     timere = re.compile(r'\d+:\d+:\d+')
     while num < totallen:
@@ -61,10 +63,9 @@ if __name__ == '__main__':
                 pass
             else:
                 filesize = 0
-                filelist.append({
+                deletelist.append({
                     "filepath": filepath,
-                    "filesize": "0",
-                    "type": "Delete"
+                    "filesize": "0"
                 })
 
         else:
@@ -82,10 +83,9 @@ if __name__ == '__main__':
                         # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
                         # to-check=1079/189807)
                         filesize = datalines[num + step].strip().split(' ')[0]
-                        filelist.append({
+                        addlist.append({
                             "filepath": filepath,
-                            "filesize": filesize,
-                            "type": "Add"
+                            "filesize": filesize
                         })
                         num = num + step
                         break
@@ -96,8 +96,9 @@ if __name__ == '__main__':
 
     jsondata = {
         "size": size,
-        "details": filelist,
-        "last": lasttime,
+        "added": addlist,
+        "deleted": deletelist,
+        "preview": lasttime,
         "current": currenttime
     }
 
