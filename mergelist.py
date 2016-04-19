@@ -82,7 +82,7 @@ if __name__ == '__main__':
                     if '100%' in datalines[num + step] and 'xfer' in datalines[num + step]:
                         # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
                         # to-check=1079/189807)
-                        filesize = datalines[num + step].strip().split(' ')[0]
+                        filesize = datalines[num + step].strip().split(' ')[0].replace(",", "")
                         addlist.append({
                             "filepath": filepath,
                             "filesize": filesize
@@ -102,5 +102,5 @@ if __name__ == '__main__':
         "current": currenttime
     }
 
-    with open(currenttime, 'w') as f:
+    with open(currenttime + ".json", 'w') as f:
         json.dump(jsondata, f)
