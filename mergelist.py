@@ -5,6 +5,23 @@ import sys
 import os
 import json
 
+
+def translate_time(timestr):
+    # timestr example: 2016-04-20~100003
+    newdate = ''
+    datere = re.compile("(\d+)-(\d+)-(\d+)~(\d\d)(\d\d)(\d\d)")
+
+    dateitem = re.findall(datere, timestr)[0]
+    newdate = dateitem[0] + "-" + dateitem[1] + "-" + dateitem[2] + \
+        " " + dateitem[3] + ":" + dateitem[4] + ":" + dateitem[5]
+
+    datecmd = "date -d '" + newdate + "'"
+
+    trdate = os.popen(datecmd).read().strip()
+
+    return trdate
+
+
 if __name__ == '__main__':
     """python3 mergelist.py rsync.log currenttime lasttime
     example:
@@ -40,8 +57,37 @@ if __name__ == '__main__':
     addlist = []
     num = 0
     timere = re.compile(r'\d+:\d+:\d+')
+    logtype = 'second'
+    # sendpath should start with sendpath[0]
+    sendflag = -1
+    sendpath = ["",
+                "pool/",
+                "dists/unstable/main/binary-amd64/Packages.diff/",
+                "dists/unstable/main/binary-i386/Packages.diff/",
+                "dists/unstable/main/source/Sources.diff/",
+                "dists/unstable/main/binary-amd64/by-hash/",
+                "dists/unstable/main/binary-i386/by-hash/",
+                "dists/unstable/main/source/by-hash/",
+                "dists/unstable/contrib/binary-amd64/Packages.diff/",
+                "dists/unstable/contrib/binary-i386/Packages.diff/",
+                "dists/unstable/contrib/source/Sources.diff/",
+                "dists/unstable/contrib/binary-amd64/by-hash/",
+                "dists/unstable/contrib/binary-i386/by-hash/",
+                "dists/unstable/contrib/source/by-hash/",
+                "dists/unstable/non-free/binary-amd64/Packages.diff/",
+                "dists/unstable/non-free/binary-i386/Packages.diff/",
+                "dists/unstable/non-free/source/Sources.diff/",
+                "dists/unstable/non-free/binary-amd64/by-hash/",
+                "dists/unstable/non-free/binary-i386/by-hash/",
+                "dists/unstable/non-free/source/by-hash/"]
+
     while num < totallen:
-        if 'Sync' in datalines[num]:
+        if 'sending incremental file list' == datalines[num]:
+            logtype = 'first'
+            sendflag += 1
+        elif 'UPLOAD' in datalines[num]:
+            pass
+        elif 'Sync' in datalines[num]:
             pass
         elif not datalines[num]:
             pass
@@ -53,45 +99,48 @@ if __name__ == '__main__':
             pass
         elif 'total size is' in datalines[num]:
             pass
-        elif 'GUARD' in datalines[num]:
+        elif 'building file list' in datalines[num]:
             pass
+        elif 'files...' in datalines[num]:
+            pass
+        elif 'files to consider' in datalines[num]:
+            pass
+        # elif 'GUARD' in datalines[num]:
+        #     pass
         elif re.findall(timere, datalines[num]):
             pass
         elif datalines[num].startswith('deleting'):
             filepath = datalines[num].strip().split(' ')[1]
-            if 'dists/' in filepath:
-                pass
-            else:
-                filesize = 0
-                deletelist.append({
-                    "filepath": filepath,
-                    "filesize": "0"
-                })
+            filesize = 0
+            deletelist.append({
+                "filepath": filepath,
+                "filesize": "0"
+            })
 
         else:
-            filepath = datalines[num].strip()
-            # only show files in pools
-            if 'dists/' in filepath:
-                pass
-            elif 'non-free/' in filepath or 'main/' in filepath or 'contrib/' in filepath:
-                filepath = "pool/" + filepath
-                filesize = 0
-                step = 0
-                maxnum = totallen - num
-                while step < maxnum:
-                    if '100%' in datalines[num + step] and 'xfer' in datalines[num + step]:
-                        # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
-                        # to-check=1079/189807)
-                        filesize = datalines[num + step].strip().split(' ')[0].replace(",", "")
-                        addlist.append({
-                            "filepath": filepath,
-                            "filesize": filesize
-                        })
-                        num = num + step
-                        break
-                    else:
-                        step += 1
 
+            filepath = datalines[num].strip()
+            if logtype == 'first':
+                pathprefix = sendpath[sendflag]
+                filepath = pathprefix + filepath
+
+            filesize = 0
+            step = 0
+            maxnum = totallen - num
+            while step < maxnum:
+                if '100%' in datalines[num + step] and '#' in datalines[num + step]:
+                    # 63447734 100%    2.19MB/s    0:00:27 (xfer#113,
+                    # to-check=1079/189807)
+                    filesize = datalines[
+                        num + step].strip().split(' ')[0].replace(",", "")
+                    addlist.append({
+                        "filepath": filepath,
+                        "filesize": filesize
+                    })
+                    num = num + step
+                    break
+                else:
+                    step += 1
         num += 1
 
     jsondata = {
