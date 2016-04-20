@@ -6,22 +6,6 @@ import os
 import json
 
 
-def translate_time(timestr):
-    # timestr example: 2016-04-20~100003
-    newdate = ''
-    datere = re.compile("(\d+)-(\d+)-(\d+)~(\d\d)(\d\d)(\d\d)")
-
-    dateitem = re.findall(datere, timestr)[0]
-    newdate = dateitem[0] + "-" + dateitem[1] + "-" + dateitem[2] + \
-        " " + dateitem[3] + ":" + dateitem[4] + ":" + dateitem[5]
-
-    datecmd = "date -d '" + newdate + "'"
-
-    trdate = os.popen(datecmd).read().strip()
-
-    return trdate
-
-
 if __name__ == '__main__':
     """python3 mergelist.py rsync.log currenttime lasttime
     example:
